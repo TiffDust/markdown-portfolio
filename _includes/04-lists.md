@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+:revolving_hearts: :sparkles: :revolving_hearts: # Favourite foods to eat
+* Indian
+* Chinese
+* Fried food
